@@ -19,3 +19,7 @@ h1{
     text-shadow: 1px 1.5px 1.5px red;
 
 }
+img{
+    height: 100%;
+    width: 100%;
+}

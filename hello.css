@@ -11,5 +11,11 @@ div{
 p{
     text-shadow: 1px 1.5px 1px black;
     font-size: 30px;
-    text-align:
+    
+}
+h1{
+    text-align: center;
+    color: #000;
+    text-shadow: 1px 1.5px 1.5px red;
+
 }
